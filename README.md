@@ -1,3 +1,6 @@
+See Project deployed here:
+
+https://nbviewer.org/github/chrisbraycodes/dsnd-communicating-to-stakeholders-lesson/blob/main/HowToBreakIntoTheField.ipynb
 
 ### Table of Contents
 
